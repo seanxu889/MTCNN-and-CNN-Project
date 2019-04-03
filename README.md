@@ -1,7 +1,7 @@
 # MTCNN-and-CNN-Project
-Face Detection and Expression Recognition System using MTCNN and CNN
+Face Detection and Expression Recognition System using MTCNN and CNN.
 
-This is on Python Tensorflow library.
+This is based on Python Tensorflow library.
 
 Reference
 [1] MTCNN paper link: Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks
